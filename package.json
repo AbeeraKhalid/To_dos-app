@@ -1,7 +1,7 @@
 {
   "name": "todos_list_app_by_abeera197",
   "version": "1.0.0",
-  "description": "\"This is a our 2ndtodos list.it contains different features for different purposes like addtask,viewtask,updatetask,deletetask and exit.Lists are the lists that we generally use to maintain our day-to-day tasks",
+  "description": "This is a our 2ndtodos list.it contains different features for different purposes like addtask,viewtask,updatetask,deletetask and exit.Lists are the lists that we generally use to maintain our day-to-day tasks",
   "main": "index.js",
   "type": "module",
   "bin": "to_dosapp.js",
